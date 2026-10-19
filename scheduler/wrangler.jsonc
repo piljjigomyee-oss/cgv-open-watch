@@ -19,14 +19,13 @@
     {
       "binding": "DB",
       "database_name": "cgv-open-watch",
-      "database_id": "a15b299c-39fc-47e7-8c07-308c2087bfb3",
+      "database_id": "0fda2781-de00-4114-bfc2-ff5349795b9c",
       "migrations_dir": "migrations"
     }
   ],
-  "vars": {
-    "GITHUB_OWNER": "twy8939",
-    "GITHUB_REPO": "cgv-open-watch",
-    "GITHUB_WORKFLOW": "watch.yml",
-    "GITHUB_REF": "main"
-  }
+"vars": {
+  "GITHUB_OWNER": "piljjigomyee-oss",
+  "GITHUB_REPO": "cgv-open-watch",
+  "GITHUB_WORKFLOW": "watch.yml",
+  "GITHUB_REF": "main"
 }
