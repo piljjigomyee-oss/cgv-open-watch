@@ -3,7 +3,7 @@
   "initializedRules": {
     "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8": "5640e725f1545bae467a"
   },
-  "updatedAt": "2026-10-20T02:41:06.216Z",
+  "updatedAt": "2026-10-20T15:21:17.532Z",
   "seen": {
     "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261020:10관withprivatebox:0900": {
       "firstSeenAt": "2026-10-19T14:57:47.803Z",
@@ -553,7 +553,84 @@
       "auditoriumName": "4DX관",
       "startTime": "1100",
       "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8"
+    },
+    "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261022:3관리클라이너laser:2240": {
+      "firstSeenAt": "2026-10-20T15:21:17.532Z",
+      "showDate": "20261022",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "auditoriumName": "3관 (리클라이너,Laser)",
+      "startTime": "2240",
+      "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8"
+    },
+    "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261024:4dx관:2000": {
+      "firstSeenAt": "2026-10-20T15:21:17.532Z",
+      "showDate": "20261024",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "auditoriumName": "4DX관",
+      "startTime": "2000",
+      "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8"
     }
   },
-  "pending": {}
+  "pending": {
+    "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261022:3관리클라이너laser:2240": {
+      "siteNo": "0293",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "movieNo": "30001367",
+      "screenNo": "003",
+      "scheduleSequence": "6",
+      "productNo": "20055937",
+      "showDate": "20261022",
+      "startTime": "2240",
+      "endTime": "2429",
+      "auditoriumName": "3관 (리클라이너,Laser)",
+      "formatName": "2D",
+      "screenGradeName": "일반",
+      "movieKindName": "",
+      "remainingSeats": 63,
+      "totalSeats": 64,
+      "startsAt": "2026-10-22T13:40:00.000Z",
+      "disabled": false,
+      "bookingClosed": false,
+      "soldOut": false,
+      "saleEnabled": true,
+      "rawStatus": "",
+      "baseKey": "0293:극장판치이카와인어섬의비밀:20261022:3관리클라이너laser:2240",
+      "key": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261022:3관리클라이너laser:2240",
+      "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8",
+      "ruleName": "먼작귀",
+      "queuedAt": "2026-10-20T15:21:17.532Z"
+    },
+    "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261024:4dx관:2000": {
+      "siteNo": "0293",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "movieNo": "30001367",
+      "screenNo": "004",
+      "scheduleSequence": "5",
+      "productNo": "20058143",
+      "showDate": "20261024",
+      "startTime": "2000",
+      "endTime": "2149",
+      "auditoriumName": "4DX관",
+      "formatName": "4DX 2D",
+      "screenGradeName": "4DX",
+      "movieKindName": "",
+      "remainingSeats": 66,
+      "totalSeats": 72,
+      "startsAt": "2026-10-24T11:00:00.000Z",
+      "disabled": false,
+      "bookingClosed": false,
+      "soldOut": false,
+      "saleEnabled": true,
+      "rawStatus": "",
+      "baseKey": "0293:극장판치이카와인어섬의비밀:20261024:4dx관:2000",
+      "key": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261024:4dx관:2000",
+      "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8",
+      "ruleName": "먼작귀",
+      "queuedAt": "2026-10-20T15:21:17.532Z"
+    }
+  }
 }
