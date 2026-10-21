@@ -3,7 +3,7 @@
   "initializedRules": {
     "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8": "5640e725f1545bae467a"
   },
-  "updatedAt": "2026-10-21T01:11:12.004Z",
+  "updatedAt": "2026-10-21T01:11:14.466Z",
   "seen": {
     "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261020:10관withprivatebox:0900": {
       "firstSeenAt": "2026-10-19T14:57:47.803Z",
@@ -582,35 +582,5 @@
       "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8"
     }
   },
-  "pending": {
-    "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261024:10관withprivatebox:0830": {
-      "siteNo": "0293",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "movieNo": "30001367",
-      "screenNo": "010",
-      "scheduleSequence": "1",
-      "productNo": "20056236",
-      "showDate": "20261024",
-      "startTime": "0830",
-      "endTime": "1019",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "formatName": "2D",
-      "screenGradeName": "일반",
-      "movieKindName": "",
-      "remainingSeats": 68,
-      "totalSeats": 288,
-      "startsAt": "2026-10-23T23:30:00.000Z",
-      "disabled": false,
-      "bookingClosed": false,
-      "soldOut": false,
-      "saleEnabled": true,
-      "rawStatus": "",
-      "baseKey": "0293:극장판치이카와인어섬의비밀:20261024:10관withprivatebox:0830",
-      "key": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8:0293:극장판치이카와인어섬의비밀:20261024:10관withprivatebox:0830",
-      "ruleId": "716c7b66-6cf5-4ba2-8234-c788b1bd2ec8",
-      "ruleName": "먼작귀",
-      "queuedAt": "2026-10-21T01:11:12.004Z"
-    }
-  }
+  "pending": {}
 }
