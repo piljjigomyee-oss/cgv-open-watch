@@ -4,80 +4,8 @@
     "1a019418-01ec-49c2-9162-fe43098c4bae": "b66930aa5b4166554e3c",
     "1b27551c-d508-4425-9ace-f5ef7e6e68e6": "b66930aa5b4166554e3c"
   },
-  "updatedAt": "2026-10-30T08:03:02.165Z",
+  "updatedAt": "2026-10-30T15:29:04.205Z",
   "seen": {
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:1030": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "1030",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:1300": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "1300",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:1530": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "1530",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:1800": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "1800",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:2030": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "2030",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:1관laser:1130": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "1관 (Laser)",
-      "startTime": "1130",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261028:4dx관:1200": {
-      "firstSeenAt": "2026-10-23T11:01:25.688Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "4DX관",
-      "startTime": "1200",
-      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
-    },
-    "1b27551c-d508-4425-9ace-f5ef7e6e68e6:0293:극장판치이카와인어섬의비밀:20261028:10관withprivatebox:1030": {
-      "firstSeenAt": "2026-10-23T12:58:58.794Z",
-      "showDate": "20261028",
-      "theatreName": "천안터미널",
-      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
-      "auditoriumName": "10관 with PRIVATE BOX",
-      "startTime": "1030",
-      "ruleId": "1b27551c-d508-4425-9ace-f5ef7e6e68e6"
-    },
     "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261031:10관withprivatebox:0830": {
       "firstSeenAt": "2026-10-25T23:37:07.526Z",
       "showDate": "20261031",
