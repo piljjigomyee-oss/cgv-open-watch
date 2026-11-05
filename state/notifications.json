@@ -4,7 +4,7 @@
     "1a019418-01ec-49c2-9162-fe43098c4bae": "b66930aa5b4166554e3c",
     "1b27551c-d508-4425-9ace-f5ef7e6e68e6": "b66930aa5b4166554e3c"
   },
-  "updatedAt": "2026-11-02T15:19:03.357Z",
+  "updatedAt": "2026-11-05T05:33:00.770Z",
   "seen": {
     "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261104:10관withprivatebox:0900": {
       "firstSeenAt": "2026-10-30T08:02:58.589Z",
@@ -59,7 +59,84 @@
       "auditoriumName": "10관 with PRIVATE BOX",
       "startTime": "1000",
       "ruleId": "1b27551c-d508-4425-9ace-f5ef7e6e68e6"
+    },
+    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900": {
+      "firstSeenAt": "2026-11-05T05:33:00.770Z",
+      "showDate": "20261107",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "auditoriumName": "씨네앤포레 (Laser)",
+      "startTime": "0900",
+      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae"
+    },
+    "1b27551c-d508-4425-9ace-f5ef7e6e68e6:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900": {
+      "firstSeenAt": "2026-11-05T05:33:00.770Z",
+      "showDate": "20261107",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "auditoriumName": "씨네앤포레 (Laser)",
+      "startTime": "0900",
+      "ruleId": "1b27551c-d508-4425-9ace-f5ef7e6e68e6"
     }
   },
-  "pending": {}
+  "pending": {
+    "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900": {
+      "siteNo": "0293",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "movieNo": "30001367",
+      "screenNo": "006",
+      "scheduleSequence": "1",
+      "productNo": "20056236",
+      "showDate": "20261107",
+      "startTime": "0900",
+      "endTime": "1049",
+      "auditoriumName": "씨네앤포레 (Laser)",
+      "formatName": "2D",
+      "screenGradeName": "일반",
+      "movieKindName": "",
+      "remainingSeats": 20,
+      "totalSeats": 57,
+      "startsAt": "2026-11-07T00:00:00.000Z",
+      "disabled": false,
+      "bookingClosed": false,
+      "soldOut": false,
+      "saleEnabled": true,
+      "rawStatus": "",
+      "baseKey": "0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900",
+      "key": "1a019418-01ec-49c2-9162-fe43098c4bae:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900",
+      "ruleId": "1a019418-01ec-49c2-9162-fe43098c4bae",
+      "ruleName": "극장판 치이카와-인어 섬의 비밀 감시",
+      "queuedAt": "2026-11-05T05:33:00.770Z"
+    },
+    "1b27551c-d508-4425-9ace-f5ef7e6e68e6:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900": {
+      "siteNo": "0293",
+      "theatreName": "천안터미널",
+      "movieTitle": "극장판 치이카와-인어 섬의 비밀",
+      "movieNo": "30001367",
+      "screenNo": "006",
+      "scheduleSequence": "1",
+      "productNo": "20056236",
+      "showDate": "20261107",
+      "startTime": "0900",
+      "endTime": "1049",
+      "auditoriumName": "씨네앤포레 (Laser)",
+      "formatName": "2D",
+      "screenGradeName": "일반",
+      "movieKindName": "",
+      "remainingSeats": 20,
+      "totalSeats": 57,
+      "startsAt": "2026-11-07T00:00:00.000Z",
+      "disabled": false,
+      "bookingClosed": false,
+      "soldOut": false,
+      "saleEnabled": true,
+      "rawStatus": "",
+      "baseKey": "0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900",
+      "key": "1b27551c-d508-4425-9ace-f5ef7e6e68e6:0293:극장판치이카와인어섬의비밀:20261107:씨네앤포레laser:0900",
+      "ruleId": "1b27551c-d508-4425-9ace-f5ef7e6e68e6",
+      "ruleName": "극장판 치이카와-인어 섬의 비밀 감시",
+      "queuedAt": "2026-11-05T05:33:00.770Z"
+    }
+  }
 }
